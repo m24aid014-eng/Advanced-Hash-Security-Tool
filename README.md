@@ -20,6 +20,13 @@ run the streamlit app
 ```bash
 streamlit run app.py
 ```
+If the above doesn’t work, use:
+
+```bash
+python -m streamlit run app.py
+
+```
+
 
 ## Features
 Implements SHA-256 (original + modified), SHA-3 (original + modified), and SHA-512.
